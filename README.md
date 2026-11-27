@@ -2,7 +2,7 @@
 
 <img src="icon.png" width="160" alt="Vittles: a skillet of sea pie">
 
-**Download:** see the [latest release](https://github.com/Dixiecapt/Vittles/releases/latest): `Vittles-1.0.64.zip` to put in by hand (the `Vittles` folder goes into `BepInEx\plugins`), `Vittles-1.0.64-thunderstore.zip` for r2modman / Thunderstore, and `Vittling_Book.pdf`, the illustrated manual. **Vittles needs [Better Stoves 1.0.20](https://github.com/Dixiecapt/Better-Stoves/releases/latest).**
+**Download:** see the [latest release](https://github.com/Dixiecapt/Vittles/releases/latest): `Vittles-1.0.66.zip` to put in by hand (the `Vittles` folder goes into `BepInEx\plugins`), `Vittles-1.0.66-thunderstore.zip` for r2modman / Thunderstore, and `Vittling_Book.pdf`, the illustrated manual. **Vittles needs [Better Stoves 1.0.20](https://github.com/Dixiecapt/Better-Stoves/releases/latest).**
 
 **Made by Dixiecapt with M.I.D.N**
 
@@ -10,7 +10,7 @@
 
 Vittles turns your ship's galley into a working kitchen. Fry, grill, stew, bake, mill, pickle and salt down meat, and every dish you make feeds you better than raw food.
 
-This is the **early beta, Vittles 1.0.64**. It needs **Better Stoves 1.0.20** (installed for you by the mod manager).
+This is the **early beta, Vittles 1.0.66**. It needs **Better Stoves 1.0.20** (installed for you by the mod manager).
 
 **The Vittling Book** (`Vittling_Book.pdf`, 52 pages, in this package) is the full manual: every recipe, step by step, with engraved plates. You also carry a shorter **Victualling Book** in game.
 
